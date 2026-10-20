@@ -1,0 +1,5 @@
+Using CATALINA_BASE:   "D:\StudentInfo\.run\tomcat"
+Using CATALINA_HOME:   "D:\java-soft\apache-tomcat-9.0.30"
+Using CATALINA_TMPDIR: "D:\StudentInfo\.run\tomcat\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jdk-17"
+Using CLASSPATH:       "D:\java-soft\apache-tomcat-9.0.30\bin\bootstrap.jar;D:\java-soft\apache-tomcat-9.0.30\bin\tomcat-juli.jar"

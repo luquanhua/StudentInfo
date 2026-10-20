@@ -1,0 +1,43 @@
+18-Oct-2026 19:42:37.401 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:     Apache Tomcat/9.0.30
+18-Oct-2026 19:42:37.416 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:            Dec 7 2019 16:42:04 UTC
+18-Oct-2026 19:42:37.416 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(：9.0.30.0
+18-Oct-2026 19:42:37.416 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+18-Oct-2026 19:42:37.416 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:               10.0
+18-Oct-2026 19:42:37.416 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:                  amd64
+18-Oct-2026 19:42:37.416 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:         C:\Program Files\Java\jdk-17
+18-Oct-2026 19:42:37.419 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:              17.0.12+8-LTS-286
+18-Oct-2026 19:42:37.420 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+18-Oct-2026 19:42:37.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\StudentInfo\.run\tomcat
+18-Oct-2026 19:42:37.423 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\java-soft\apache-tomcat-9.0.30
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\StudentInfo\.run\tomcat\conf\logging.properties
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Oct-2026 19:42:37.451 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+18-Oct-2026 19:42:37.452 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Oct-2026 19:42:37.452 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\StudentInfo\.run\tomcat
+18-Oct-2026 19:42:37.453 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\java-soft\apache-tomcat-9.0.30
+18-Oct-2026 19:42:37.453 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\StudentInfo\.run\tomcat\temp
+18-Oct-2026 19:42:37.455 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;D:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Bandizip\;D:\java-soft\apache-maven-3.9.9\bin;C:\Program Files\Java\jdk-25.0.4.1\bin;D:\Redis-x64-5.0.14.1;D:\all-soft\nvm\nvm;D:\nvm4w\nodejs;D:\Docker\DockerDesktop\resources\bin;D:\微信web开发者工具;D:\Python\Python314\Scripts\;D:\Python\Python314\;D:\Z1BB\bin;D:\Z1BB\cmd;C:\Users\Administrator\.mcc\.npm-global;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\dev-tools\nvm;D:\dev-tools\nodejs;D:\all-soft\nvm\nvm;D:\nvm4w\nodejs;D:\all-soft\IntelliJ IDEA 2026.2.3\bin;D:\all-soft\Microsoft VS Code\bin;D:\all-soft\PyCharm 2026.2.3\bin;.]
+18-Oct-2026 19:42:37.959 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+18-Oct-2026 19:42:38.172 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["ajp-nio-8009"]
+18-Oct-2026 19:42:38.181 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[1,176]毫秒内初始化
+18-Oct-2026 19:42:38.268 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Oct-2026 19:42:38.269 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.30]
+18-Oct-2026 19:42:38.325 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\StudentInfo\.run\tomcat\webapps\ROOT.war]
+18-Oct-2026 19:42:42.188 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+18-Oct-2026 19:42:42.300 信息 [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+18-Oct-2026 19:42:44.221 信息 [main] com.alibaba.druid.support.logging.JakartaCommonsLoggingImpl.info {dataSource-1} inited
+18-Oct-2026 19:42:44.825 信息 [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 2525 ms
+18-Oct-2026 19:42:45.080 信息 [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcherServlet'
+18-Oct-2026 19:42:46.306 信息 [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1226 ms
+18-Oct-2026 19:42:46.306 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\StudentInfo\.run\tomcat\webapps\ROOT.war] has finished in [7,981] ms
+18-Oct-2026 19:42:46.306 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+18-Oct-2026 19:42:46.326 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["ajp-nio-8009"]
+18-Oct-2026 19:42:46.330 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [8,145] milliseconds
+18-Oct-2026 19:43:10.814 警告 [http-nio-8080-exec-6] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /favicon.ico
+18-Oct-2026 19:44:18.578 警告 [http-nio-8080-exec-3] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /favicon.ico
+18-Oct-2026 19:51:35.906 警告 [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /favicon.ico
